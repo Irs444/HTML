@@ -1,0 +1,16 @@
+.div2{
+    border: 2px solid black;
+    width: 30%;
+    height: 40vh;
+    border-radius: 5px;
+  padding: 20px;
+}
+
+.div3{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+   display: flex;
+   justify-content: center;
+}
